@@ -1,0 +1,17 @@
+"""
+Easy Challenges
+1. Hello, World!
+Write a program that uses the print function to display "Hello, World!".
+
+2. Custom Greeting
+Prompt the user to input their name and print a personalized greeting message, such as "Hello, [Name]!"
+
+3. Quote Printer
+Print a famous quote on the screen, ensuring it is enclosed in quotation marks within the output.
+
+4. Formatted List
+Given a list of fruits, ["apple", "banana", "cherry"], use the print function to display each fruit on a separate line without using a loop.
+
+5. Math Operation Result
+Use the print function to display the result of any two numbers added together (e.g., 5 + 4 = 9), where the equation is also part of the printed string.
+"""

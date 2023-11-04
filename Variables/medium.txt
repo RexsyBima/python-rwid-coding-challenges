@@ -1,0 +1,11 @@
+Medium Challenges
+
+1. FizzBuzz with a Twist: Write a FizzBuzz program (prints "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for multiples of both) that uses only two variables in the entire program.
+
+2. String Reversal: Create a function that reverses a string using a loop and variable assignment. It should handle strings with spaces and punctuation correctly.
+
+3. Prime Number Checker: Write a program that checks if a number stored in a variable is a prime number or not. The check should be performed in a function.
+
+4. Fibonacci Sequence: Generate a Fibonacci sequence up to the nth number, where n is a variable. Use iteration and ensure that your variables are named clearly.
+
+5. Sorting Algorithm: Implement a simple sorting algorithm (like bubble sort or selection sort) using variables to perform the necessary swaps. Make sure to explain the logic with comments.

@@ -1,0 +1,15 @@
+Medium Challenges
+1. Multiplication Table
+Write a program that takes a number as input and prints its multiplication table up to 10 using the print function.
+
+2. Formatted Receipt
+Print a receipt format where item names and their prices are aligned in two columns, and at the bottom show the total price.
+
+3. Pyramid Pattern
+Use the print function to create a pyramid pattern. The user should be able to specify how tall the pyramid should be.
+
+4. Box Border
+Print a hollow box shape where the borders are made up of asterisks (*) and the inside is empty. The height and width should be provided by the user.
+
+5. Email Extractor
+Given a string with multiple email addresses separated by spaces, use the print function to display each email address on a separate line.

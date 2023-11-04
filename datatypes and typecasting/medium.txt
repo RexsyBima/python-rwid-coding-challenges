@@ -1,0 +1,15 @@
+Medium Challenges
+Challenge 1: Mixed Type Calculator
+Create a Python calculator that can take two inputs of mixed types (int, float, or string that represents a number) and an operator (+, -, *, /) and returns the result of the operation as a float.
+
+Challenge 2: Type-Safe Input Function
+Write a Python function that asks the user for an input but requires the type of the input to be specified (int, float, or string), ensuring the output is of the required type or throws an error.
+
+Challenge 3: String Encoding
+Convert a string into bytes and then convert it back to a string using UTF-8 encoding.
+
+Challenge 4: Complex Number Operations
+Write a function that takes two strings representing complex numbers (e.g., "5+3j") and calculates their product. The result should be printed as a complex number.
+
+Challenge 5: Dictionary Serialization
+Create a program that takes a dictionary with mixed data types as values (including at least strings, integers, and floats), converts it into a string representation, and then converts it back to a dictionary, ensuring the types of the values are preserved.

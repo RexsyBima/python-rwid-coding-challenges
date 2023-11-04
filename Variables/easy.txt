@@ -1,0 +1,10 @@
+Easy Challenges
+1. Variable Swap: Write a program that swaps the values of two variables without using a third variable.
+
+2. Type Conversion: Create a program that takes an input string of numbers separated by spaces, and converts them into a list of integers.
+
+3. Unit Conversion: Write a script that converts kilometers to miles. The number of kilometers is stored in a variable. 1 kilometer equals 0.621371 miles.
+
+4. Simple Interest Calculator: Write a program that calculates simple interest given principal, rate of interest, and time period. Use variables to store the inputs and print out the interest.
+
+5. Age in Seconds: Create a program that calculates your age in seconds. Use variables to store your age in years, and then calculate the equivalent in seconds (ignore leap years for simplicity).
